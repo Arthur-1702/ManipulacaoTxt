@@ -1,0 +1,18 @@
+Nota Fiscal
+
+_______________________________
+
+Empresa: NET Ltda
+Quantia: R$100,00
+Descrição: Curso
+Local: Recife - PE
+Data/Hora: 14/04 10:55:48
+
+_______________________________
+Cliente: Arthur
+CPF: 123.456.321-15
+
+
+_____________________
+Endereço: Rua Abcde, 193 - Centro
+_____________________
